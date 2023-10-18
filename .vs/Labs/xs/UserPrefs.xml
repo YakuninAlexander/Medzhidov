@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B102E71C-5A80-4376-8075-75B38CC68C8D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab1Norm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lab1Ploho PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labs" expanded="True">
+            <Node name="2_WithoutSingleResponsibility" expanded="True" />
+            <Node name="2_WithSingleResponsibility" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="PasswordGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2__WithSingleResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2__WithoutSingleResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

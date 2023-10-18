@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQyTrIoM9Q8BVkJVqm2W9HdRrMSQYmTw9NY0lo78tletAhDrH61lbyQktQwzNkvh3eWKVXAn/bAmn9+mn/c4Ww==",
+  "success": true,
+  "projectFilePath": "/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/2_WithSingleResponsibility.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexander/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alexander/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alexander/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

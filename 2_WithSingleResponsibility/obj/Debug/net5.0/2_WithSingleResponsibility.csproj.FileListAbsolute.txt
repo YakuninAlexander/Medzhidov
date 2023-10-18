@@ -1,0 +1,16 @@
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility.deps.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility.runtimeconfig.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility.runtimeconfig.dev.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility.pdb
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.csproj.AssemblyReference.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.AssemblyInfoInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.AssemblyInfo.cs
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.csproj.CoreCompileInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/ref/2_WithSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.pdb
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/2_WithSingleResponsibility.genruntimeconfig.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/bin/Debug/net5.0/2_WithSingleResponsibility
+/Users/alexander/Projects/medzhidov/Labs/2_WithSingleResponsibility/obj/Debug/net5.0/refint/2_WithSingleResponsibility.dll

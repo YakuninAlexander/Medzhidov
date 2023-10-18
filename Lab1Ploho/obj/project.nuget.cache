@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nWtmx0ryp9I9/MyMrHNNAgvuZkwM5AB+VgDM207ohWDzhPqdapq0OKqa1ptLmPqUHLlDU+tFLg2mXyhfb9SLgQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/Lab1Ploho.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexander/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alexander/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/alexander/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

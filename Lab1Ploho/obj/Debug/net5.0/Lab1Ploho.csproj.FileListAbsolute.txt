@@ -1,0 +1,16 @@
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho.deps.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho.runtimeconfig.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho.runtimeconfig.dev.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho.pdb
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.csproj.AssemblyReference.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.AssemblyInfoInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.AssemblyInfo.cs
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.csproj.CoreCompileInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/ref/Lab1Ploho.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.pdb
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/Lab1Ploho.genruntimeconfig.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/bin/Debug/net5.0/Lab1Ploho
+/Users/alexander/Projects/medzhidov/Labs/Lab1Ploho/obj/Debug/net5.0/refint/Lab1Ploho.dll

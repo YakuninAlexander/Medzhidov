@@ -1,0 +1,16 @@
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm.deps.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm.runtimeconfig.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm.runtimeconfig.dev.json
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm.pdb
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.csproj.AssemblyReference.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.AssemblyInfoInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.AssemblyInfo.cs
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.csproj.CoreCompileInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/ref/Lab1Norm.dll
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.pdb
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/Lab1Norm.genruntimeconfig.cache
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/bin/Debug/net5.0/Lab1Norm
+/Users/alexander/Projects/medzhidov/Labs/Lab1Norm/obj/Debug/net5.0/refint/Lab1Norm.dll

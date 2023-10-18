@@ -1,0 +1,16 @@
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility.deps.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility.runtimeconfig.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility.runtimeconfig.dev.json
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility.pdb
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.csproj.AssemblyReference.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.AssemblyInfoInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.AssemblyInfo.cs
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.csproj.CoreCompileInputs.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/ref/2_WithoutSingleResponsibility.dll
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.pdb
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/2_WithoutSingleResponsibility.genruntimeconfig.cache
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/bin/Debug/net5.0/2_WithoutSingleResponsibility
+/Users/alexander/Projects/medzhidov/Labs/2_WithoutSingleResponsibility/obj/Debug/net5.0/refint/2_WithoutSingleResponsibility.dll
